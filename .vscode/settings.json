@@ -1,0 +1,16 @@
+{
+    "json.schemas": [
+    {
+        "fileMatch": [
+            "/myfile"
+        ],
+        "url": "schemaURL"
+    }
+    ],
+
+    "armToolchainVersion": "10.2.1",
+    "cortex-debug.armToolchainPath": "C:/PROGRA~2/GNUARM~1/102020~1/bin", 
+    "cortex-debug.openocdPath": "${workspaceRoot}/openocd-0.11.0-rc1/bin/openocd.exe",
+    //Please modify this to your server location if different
+    "cortex-debug.JLinkGDBServerPath": "C:/Program Files (x86)/SEGGER/JLink_V635c/JLinkGDBServerCL.exe"
+}
