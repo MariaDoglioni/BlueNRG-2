@@ -1,0 +1,10 @@
+
+*.db
+*.db-wal
+*.db-wal
+*.db
+*.db-shm
+*.db-wal
+
+obj/
+libs/
